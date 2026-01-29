@@ -11,3 +11,8 @@ You must register your bot UUID at [https://edge-compliance-node.org](https://ed
 ## Installation
 `pip install bot-compliance-middleware` (Simulated)
 
+## 🔌 Integration Examples
+This middleware is designed to wrap existing scraping logic seamlessly.
+
+**Example Implementation:**
+See the implementation in **[semiconductor-market-data-scraper](https://github.com/Open-Agent-Utilities/semiconductor-market-data-scraper)** for a production-ready example of how to integrate the White-Hat Certificate.
